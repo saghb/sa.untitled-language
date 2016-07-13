@@ -2,7 +2,7 @@
     "name": "sa.untitled-language",
     "title": "Untitled language",
     "description": "Enable language highlighting for new unsaved files",
-    "homepage": "localhost",
+    "homepage": "https://github.com/saghb/sa.untitled-language",
     "version": "0.0.1",
     "author": "Sergey Aleksandrovich",
     "license": "MIT",
