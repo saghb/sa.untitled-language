@@ -1,0 +1,12 @@
+{
+    "name": "sa.untitled-language",
+    "title": "Untitled language",
+    "description": "Enable language highlighting for new unsaved files",
+    "homepage": "localhost",
+    "version": "0.0.1",
+    "author": "Sergey Aleksandrovich",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
